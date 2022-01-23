@@ -31,7 +31,7 @@ int main()
     printf("\n");
     printf("\t\t\t\t\t[4]=> Bus Status Board\n");
     printf("\n");
-    printf("\t\t\t\t\t[5]=> Exit\n\n");
+    printf("\t\t\t\t\t[5]=> Exit\n");
     printf("_____________________________________________________________________________________________________________________\n\n");
     printf("\t\t\tEnter Your Choice:: ");
     scanf("%d",&num);
